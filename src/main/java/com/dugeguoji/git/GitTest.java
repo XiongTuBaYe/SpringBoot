@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("这只是测试一下idea使用git3");
         System.out.println("master test !");
         System.out.println("hot-fix test !");
+        System.out.println("test ssh");
     }
 }
