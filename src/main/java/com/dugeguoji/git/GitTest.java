@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("这只是测试一下idea使用git");
         System.out.println("这只是测试一下idea使用git2");
         System.out.println("这只是测试一下idea使用git3");
+        System.out.println("hot-fix test !");
     }
 }
